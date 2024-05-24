@@ -1,0 +1,7 @@
+edu\programacion\javafx\dao\UserDAO.class
+edu\programacion\javafx\utils\DatabaseConnection.class
+edu\programacion\javafx\model\User.class
+edu\programacion\javafx\app\App.class
+edu\programacion\javafx\controller\UsersController.class
+edu\programacion\javafx\app\dao\UserDAO.class
+edu\programacion\javafx\service\UserService.class
