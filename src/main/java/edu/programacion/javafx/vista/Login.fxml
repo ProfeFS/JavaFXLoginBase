@@ -26,8 +26,8 @@
 
         <HBox alignment="CENTER" prefHeight="57.0" prefWidth="41.0" spacing="10">
             <children>
-                <Button fx:id="btnLogin" onAction="#handleLogin" text="Login" />
-                <Button fx:id="btnCancel" onAction="#handleCancel" text="Cancel" />
+                <Button fx:id="btnLogin" text="Login" />
+                <Button fx:id="btnCancel" text="Cancel" />
             </children>
         </HBox>
     </children>
